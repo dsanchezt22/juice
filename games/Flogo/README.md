@@ -11,4 +11,4 @@ How does the game actually play? (Core Game Loop)
 The objective is to successfully complete the level without dying or resetting. Levels will increase in complexity. If time allows, I plan to add additional achievements such as coins or make it timed.
 
 How will you keep players engaged for 30 minutes? What's the general scope of your game (will change as you go)? 
-Given that it is a level game, players can be entertained by adding several levels, that will exceed 30 minutes play time. Adding different mechanics that are interesting throughout the levels will keep them engaged. 
+Players can be entertained by adding several levels, that will exceed 30 minutes play time. Adding different mechanics that are interesting throughout the levels will keep them engaged. 
